@@ -1,7 +1,6 @@
 # Office-Management-ERP-System
 The project is developed in order to increase the office productivity 
 Technologies used: HTML,CSS,Bootstrap,Java-J2EE,JDBC,SQLYog(MYSQL).
-The dynamic web project is running on Apache Tomcat v8.0 Server at localhost.
 FIrst add data from admin portal, hten you will be able to operate the whole project as the project flow starts from admin portal. 
 
 There are two types of users: Admin and Employees
@@ -22,3 +21,4 @@ See pending ,in progress and completed tasks,
 Track their own tasks,
 Update their task status (pending, in progress, and completed)
 
+The dynamic web project runs on Apache Tomcat v8.0 Server at localhost.

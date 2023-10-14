@@ -22,6 +22,6 @@ Update their task status (pending, in progress, and completed)
 
 Technologies used: HTML,CSS,Bootstrap,Java-J2EE,JDBC,SQLYog(MYSQL).
 
-The dynamic web project runs on Apache Tomcat v8.0 Server at localhost.
+The dynamic web project runs on Apache Tomcat v8.0 Server.
 
 
